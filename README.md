@@ -1,12 +1,16 @@
-<h1> (नमस्ते) Hi there, I'm Aman Dwivedi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aman-dwivedi-b3b5841b0/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/born_69_confused/?hl=de)
-[<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/13461811/confused)
-[<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://aman-dwivedi.medium.com/)
-[<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://awesome-noyce-737f26.netlify.app/)
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:19dwivediaman@gmail.com)
+born69confused
+
+
+<h1> Hi there, I'm Manuel Yanez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manuelyt/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/manuelyt)
+[<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/220581/lebronjames)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>](https://medium.com/@manuelyt)
+[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:manuelyt@gmail.com)
 
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=born69confused.born69confused) 
@@ -19,7 +23,7 @@
 
 ### Also, I love starting new Projects. 
 
-### Currently, I'm working with javascript to develop Front as well as Backend websites.
+### Currently, I'm working with java, I also have knowledge in javascript Front and Backend websites.
 </div>
 
 <div>
@@ -29,22 +33,20 @@
 
 **Talking about Personal Stuffs:**
 
-- 🚀 I’m currently learning Data Structures and Algorithms
+- 🚀 I’m currently learning react
 
-- 💻 I’m always working on something related to MERN
-
-- 📝 I write articles on medium when I'm free
+- 💻 Most of my experience is with java
 
 - 🤲 I'm looking to collaborate
 
-- 📫 How to reach me: 19dwivediaman@gmail.com
+- 📫 How to reach me: manuelyt@gmail.com
 </div>
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=born69confused&color=blueviolet&style=flat)
-![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code)
-![](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=files)
+![](https://komarev.com/ghpvc/?username=manuelyt&color=blueviolet&style=flat)
+![](https://tokei.rs/b1/github/manuelyt/LeetCode_Solutions?category=code)
+![](https://tokei.rs/b1/github/manuelyt/LeetCode_Solutions?category=files)
 
 ---
 
@@ -52,9 +54,11 @@
 
 > Languages 
 <p>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Hadoop" src="https://img.shields.io/badge/Hadoop%20-%2300599C.svg?&style=for-the-badge&logo=hadoop%2B%2B&ogoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 </p>
 
 >Learning
@@ -75,7 +79,6 @@
 >Backend and Database
 <p>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
