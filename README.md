@@ -43,8 +43,8 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=manuelyt&color=blueviolet&style=flat)
-![](https://tokei.rs/b1/github/manuelyt/LeetCode_Solutions?category=code)
-![](https://tokei.rs/b1/github/manuelyt/LeetCode_Solutions?category=files)
+![](https://tokei.rs/b1/github/manuelyt/prog?category=code)
+![](https://tokei.rs/b1/github/manuelyt/prog?category=files)
 
 ---
 
